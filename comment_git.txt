@@ -1,8 +1,0 @@
-;The comment below contains SFX script commands
-
-Setup="Dot1X_Update7.3 (E0572).exe"
-Silent=2
-Overwrite=1
-@ver: 7.30-0572
-@new_ver: iNode PC 7.3 (E0572)
-cusTimeStamp:1617195181
